@@ -1,0 +1,17 @@
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\AritmeticaUnitTest.deps.json
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\AritmeticaUnitTest.runtimeconfig.json
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\AritmeticaUnitTest.runtimeconfig.dev.json
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\AritmeticaUnitTest.dll
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\AritmeticaUnitTest.pdb
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\PruebasUnitarias.dll
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\bin\Debug\netcoreapp2.1\PruebasUnitarias.pdb
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\obj\Debug\netcoreapp2.1\AritmeticaUnitTest.csprojAssemblyReference.cache
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\obj\Debug\netcoreapp2.1\AritmeticaUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\obj\Debug\netcoreapp2.1\AritmeticaUnitTest.AssemblyInfoInputs.cache
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\obj\Debug\netcoreapp2.1\AritmeticaUnitTest.AssemblyInfo.cs
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\obj\Debug\netcoreapp2.1\AritmeticaUnitTest.csproj.CopyComplete
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\obj\Debug\netcoreapp2.1\AritmeticaUnitTest.dll
+C:\Users\xavi7\source\repos\PruebasUnitarias\AritmeticaUnitTest\obj\Debug\netcoreapp2.1\AritmeticaUnitTest.pdb
