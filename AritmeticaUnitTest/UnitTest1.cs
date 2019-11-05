@@ -20,7 +20,7 @@ namespace AritmeticaUnitTest
         {
             double result = Aritmetica.multiplicar(5.0, 3.0);
 
-            Assert.AreEqual(20.0, result);
+            Assert.AreEqual(15.0, result);
 
         }
 
